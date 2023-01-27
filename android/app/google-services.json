@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595354857469",
+    "project_id": "watering-sekolah-santai-362ca",
+    "storage_bucket": "watering-sekolah-santai-362ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595354857469:android:8f7f53eab720dc2f107394",
+        "android_client_info": {
+          "package_name": "com.example.watering_sekolah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595354857469-tjq5kuc40drlvbgho3ju5v65ppfd7lfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwiC-Tl0VgGwsK9e8hleijaM4A-1IhFZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595354857469-tjq5kuc40drlvbgho3ju5v65ppfd7lfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

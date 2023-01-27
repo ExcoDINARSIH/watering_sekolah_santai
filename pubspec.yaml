@@ -9,8 +9,25 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   cupertino_icons: ^1.0.2
+  flutter_native_splash: ^2.2.16
+  firebase_core: ^2.4.1
+  firebase_auth: ^4.2.5
+  google_fonts: ^3.0.1
+  shared_preferences: ^2.0.16
+  cloud_firestore: ^4.3.1
+
+flutter_native_splash:
+  background_image: "assets/background.png"
+  image: assets/splash.png
+  android: true
+  ios: true
+  web: true
+  fullscreen: true
+  android_gravity: center
+  ios_content_mode: center
+  web_image_mode: center
+
 
 dev_dependencies:
   flutter_test:
